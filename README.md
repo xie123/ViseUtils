@@ -5,9 +5,6 @@
 
 - 项目引入：`compile 'com.vise.xiaoyaoyou:viseutils:1.0.0'`
 
-### QQ交流群
-![QQ群](http://img.blog.csdn.net/20170327191310083)
-
 ### assist包：
 常用辅助工具类，包含缓存、网络判定、SSL证书、Date工具、String工具等。
 
@@ -45,7 +42,5 @@ BroadcastReceiver通知相关，包含去电、来电通知，屏幕加解锁通
 View相关工具类，包含页面跳转、图片转换、剪切板、Dialog弹窗、通知栏、软键盘处理、像素单位转换等。
 
 
-### 关于作者
-#### 作者：胡伟
-#### 网站：[http://www.huwei.tech](http://www.huwei.tech)
-#### 博客：[http://blog.csdn.net/xiaoyaoyou1212](http://blog.csdn.net/xiaoyaoyou1212)
+### 转载来自作者胡伟 网站：[http://www.huwei.tech](http://www.huwei.tech)
+
